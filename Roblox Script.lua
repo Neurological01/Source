@@ -2,7 +2,14 @@
 
 wait(1.2)
 game.StarterGui:SetCore("SendNotification", {
-Title = "DUMBASS LOL (sorry)";
+Title = "DUMBASS LOL";
 Text = "You are stupid fr just search online LOL";
+Duration = 1000000000000000000;
+})
+
+wait(2)
+game.StarterGui:SetCore("SendNotification", {
+Title = "Lol sorry";
+Text = "But you should google fr";
 Duration = 1000000000000000000;
 })
