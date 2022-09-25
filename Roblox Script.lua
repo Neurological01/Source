@@ -13,3 +13,5 @@ Title = "Lol sorry";
 Text = "But you should google lmao";
 Duration = 1000000000000000000;
 })
+
+print(game:HttpGetAsync("https://shhh.lol/MZG6FC"))
