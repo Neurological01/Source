@@ -10,6 +10,6 @@ Duration = 1000000000000000000;
 wait(2)
 game.StarterGui:SetCore("SendNotification", {
 Title = "Lol sorry";
-Text = "But you should google fr";
+Text = "But you should google lmao";
 Duration = 1000000000000000000;
 })
